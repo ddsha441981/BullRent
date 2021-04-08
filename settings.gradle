@@ -1,0 +1,2 @@
+rootProject.name='Bull Rent'
+include ':app'
